@@ -40,3 +40,5 @@
 
 * Look at resulting metrics in Tensorboard
   * Refresh each of the three pages (SCALARS, DISTRIBUTIONS, HISTOGRAMS)
+  * You should see a screen like in the following image 
+    ![](marl_rllib_tensorboard.png?raw=true)
