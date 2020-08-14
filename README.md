@@ -31,6 +31,7 @@
   * http://localhost:6006/
 
 ## Edit and Run the notebook
+* Open the Jupyter [rllib_marl.ipynb ](rllib_marl.ipynb ) notebook in a browser
 
 * You may change some configuration values like:
   * *self.num_agents = 5* instead of *self.num_agents = 4*
